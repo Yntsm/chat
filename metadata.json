@@ -1,0 +1,6 @@
+{
+  "name": "Chat App",
+  "description": "Real-time chat application with video and voice calls",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
